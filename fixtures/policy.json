@@ -1,0 +1,1 @@
+{"allowed_imports":["wasi:cli.run"],"required_exports":["run"],"max_imports":8}
